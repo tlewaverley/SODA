@@ -362,6 +362,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
          <accessor type="string">cssprop</accessor>
          <accessor type="string">cssvalue</accessor>
          <accessor type="boolean">required</accessor>
+         <accessor type="boolean">click</accessor>
 		</soda_attributes>
 	</td>
 
@@ -485,6 +486,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
          <accessor type="string">cssprop</accessor>
          <accessor type="string">cssvalue</accessor>
          <accessor type="boolean">required</accessor>
+         <accessor type="boolean">click</accessor>
 		</soda_attributes>
 	</tr>
 
